@@ -1,5 +1,3 @@
-# jQuery Cheat Sheet
-
 ## Core Concepts
 
 ### What is jQuery?
