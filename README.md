@@ -1,5 +1,19 @@
 ## Core Concepts
 
+- [Core Concepts](#core-concepts)
+- [Selectors](#selectors)
+- [DOM Manipulation](#dom-manipulation)
+- [Event Handling](#event-handling)
+- [AJAX](#ajax)
+- [Animations and Effects](#animations-and-effects)
+- [Utilities](#utilities)
+- [Best Practices](#best-practices)
+- [Common Interview Questions](#common-interview-questions)
+- [Hands-on Exercises](#hands-on-exercises)
+- [Additional Resources](#additional-resources)
+
+---
+
 ### What is jQuery?
 - jQuery is a lightweight JavaScript library for simplifying interactions between HTML and JavaScript.
 - It facilitates DOM manipulation, event handling, animations, and AJAX.
