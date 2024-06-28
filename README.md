@@ -122,7 +122,3 @@
 
 - [Toptal: 17 Essential jQuery Interview Questions](https://www.toptal.com/jquery/interview-questions)
 - [InterviewBit: Top 40+ jQuery Interview Questions and Answers](https://www.interviewbit.com/jquery-interview-questions/)
-- [GeeksforGeeks: Top jQuery Interview Questions and Answers](https://www.geeksforgeeks.org/top-50-jquery-interview-questions-answers/)
-- [Simplilearn: Top 65+ JQuery Interview Questions and Answers](https://www.simplilearn.com/tutorials/jquery-tutorial/jquery-interview-questions)
-- [GitHub: 100 Fundamental jQuery Interview Questions](https://github.com/sudheerj/jquery-interview-questions)
-
