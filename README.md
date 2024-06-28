@@ -1,6 +1,5 @@
 ## Core Concepts
 
-- [Core Concepts](#core-concepts)
 - [Selectors](#selectors)
 - [DOM Manipulation](#dom-manipulation)
 - [Event Handling](#event-handling)
@@ -117,19 +116,19 @@
 
 ## Hands-on Exercises
 
-### Simple Animation
-- Use `fadeIn()` and `fadeOut()`.
+1. #### Simple Animation
+-  Use `fadeIn()` and `fadeOut()`.
 
-### Implement Event Handling
+2. #### Implement Event Handling
 - Use `on()` to bind events.
 
-### Make an AJAX Request
+3. #### Make an AJAX Request
 - Use `$.get()` or `$.post()`.
 
-### Manipulate the DOM
+4. #### Manipulate the DOM
 - Use `append()`, `remove()`, and `html()`.
 
-### Practice jQuery Selectors
+5. #### Practice jQuery Selectors
 - Use `$('element')`, `$('#id')`, `$('.class')`.
 
 ## Additional Resources
