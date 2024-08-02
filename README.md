@@ -1,4 +1,4 @@
-## Core Concepts
+## Core Concepts - jQuery
 
 - [Selectors](#selectors)
 - [DOM Manipulation](#dom-manipulation)
